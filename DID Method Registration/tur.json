@@ -1,6 +1,6 @@
 {
-  "name": 'tr-ssi',\
-  "status": "registered",\
+  "name": "tur",
+  "status": "registered",
   "specification": "OUR DID METHOD SPEC- https://w3c-ccg.github.io/did-spec/",
   "contactName": "93TUBITAK BILGEM Blockchain Laboratory",
   "contactEmail": "bzlab@tubitak.gov.tr"
