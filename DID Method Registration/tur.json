@@ -5,5 +5,5 @@
   "contactName": "TUBITAK BILGEM Blockchain Laboratory",
   "contactEmail": "bzlab@tubitak.gov.tr"
   "contactWebsite": "http://ssiturkiye.bag.org.tr"
-  "verifiableDataRegistry": "ssiturkiye.bag.org.tr/did-spec/tur"
+  "verifiableDataRegistry": "https://github.com/bzlab/ssi-turkiye-spec/blob/main/DID%20Method%20Registration/TR%20SSI%20DID%20Spec%20ReadMe.md"
 }
