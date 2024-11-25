@@ -2,8 +2,8 @@
   "name": "tur",
   "status": "registered",
   "specification": "OUR DID METHOD SPEC- https://w3c-ccg.github.io/did-spec/",
-  "contactName": "93TUBITAK BILGEM Blockchain Laboratory",
+  "contactName": "TUBITAK BILGEM Blockchain Laboratory",
   "contactEmail": "bzlab@tubitak.gov.tr"
-  "contactWebsite": "ssiturkiye.bag.org.tr"
+  "contactWebsite": "http://ssiturkiye.bag.org.tr"
   "verifiableDataRegistry": "ssiturkiye.bag.org.tr/did-spec/tur"
 }
