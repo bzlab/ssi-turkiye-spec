@@ -5,7 +5,7 @@
 
 The **tur** method is designed to generate decentralised identifiers utilised in Turkey's SSI Digital Identity System to create digital identity credentials. SSI Digital Identity System is built by TUBITAK BILGEM, which supports the Self-Sovereign Identity (SSI) model and is governed by its own community. Self-Sovereign Identity (SSI) is a model that gives individuals full ownership and control of their digital identities without relying on a third party. 
 
-Please refer to https://blokzincir.bilgem.tubitak.gov.tr/altyapilar/ssi-turkiye/ for further details.
+Please refer to https://ssiturkiye.bag.org.tr/ for further details.
 
 SSI Turkey Identity System is built on Hyperledger Indy blockchain infrastructure. Hyperledger Indy is a public ledger designed specifically and only for privacy-preserving self-sovereign identity. 
 
